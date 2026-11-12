@@ -1,0 +1,22 @@
+RESUME TEMPLATE — REPLACE BEFORE SHARING
+
+[Your Name]
+[Your City, Country] · [Your email] · [Portfolio URL] · [GitHub / LinkedIn]
+
+PROFILE
+[Write a short, accurate summary of your interests and experience.]
+
+SKILLS
+[List only skills you can confidently discuss.]
+
+PROJECTS
+[Project name] — [What you built, your role, and the outcome.]
+[Project URL] · [GitHub URL]
+
+EDUCATION
+[Program or degree] — [Institution], [Dates]
+
+EXPERIENCE
+[Add verified experience, or remove this section.]
+
+Replace this template with your current resume before publishing the portfolio.
