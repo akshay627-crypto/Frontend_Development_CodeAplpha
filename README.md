@@ -1,4 +1,4 @@
-# Frontend_Development_CodeAplha
+# Frontend_Development_CodeAplpha
 
 One repository containing the three CodeAlpha frontend projects plus a root launch page. Each project is a standalone HTML/CSS/vanilla JavaScript site; no framework, build step, or package installation is required.
 
@@ -33,19 +33,11 @@ CodeAlpha_PersonalPortfolio/       Portfolio site, README, assets, and screensho
 - Local file references, internal anchors, HTML IDs, CSS brace balance, and clean Git worktrees were checked.
 - Browser-rendered desktop/mobile screenshots and cross-browser console review still require a browser preview.
 
-## Publish this single repository
+## GitHub repository and deployment
 
-Create a public GitHub repository named exactly `Frontend_Development_CodeAplha`, without a generated README, `.gitignore`, or license. From this folder, run:
+The unified public repository is [akshay627-crypto/Frontend_Development_CodeAplpha](https://github.com/akshay627-crypto/Frontend_Development_CodeAplpha).
 
-```powershell
-git init -b main
-git add .
-git commit -m "Complete CodeAlpha frontend projects"
-git remote add origin https://github.com/<username>/Frontend_Development_CodeAplha.git
-git push -u origin main
-```
-
-Then enable GitHub Pages from **Settings → Pages → Deploy from a branch → main / root**. The root launch page should be served at `https://<username>.github.io/Frontend_Development_CodeAplha/`; the three projects will be available under their directory paths. Confirm each deployment URL in repository settings before submitting.
+GitHub Pages is configured to publish the `main` branch from the repository root. The site URL is `https://akshay627-crypto.github.io/Frontend_Development_CodeAplpha/`, and each project is served from its subdirectory. Confirm the first Pages build and each project URL before submission.
 
 ## Submission checklist
 
@@ -53,4 +45,5 @@ Then enable GitHub Pages from **Settings → Pages → Deploy from a branch → 
 - [ ] Replace `CodeAlpha_PersonalPortfolio/assets/resume-template.txt` with a real resume and update the download link.
 - [ ] Set the contact email in `CodeAlpha_PersonalPortfolio/script.js`.
 - [ ] Capture desktop and mobile screenshots in each project's `screenshots/` folder.
-- [ ] Create the single public repository, push `main`, enable Pages, and verify its URLs.
+- [x] Create the single public repository, push `main`, and configure Pages from `main` / root.
+- [ ] Confirm the Pages build and verify the published URLs.

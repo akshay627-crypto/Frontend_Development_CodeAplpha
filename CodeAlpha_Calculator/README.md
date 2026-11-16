@@ -37,7 +37,7 @@ screenshots/     Screenshot capture directory
 
 ## GitHub Pages
 
-Create a public repository named `CodeAlpha_Calculator`, push this folder to `main`, then enable Pages from **Settings → Pages → Deploy from a branch → main / root**. `index.html` is at the root, so no build output is needed. Verify the URL shown in repository settings after publishing.
+This project is included in the public `Frontend_Development_CodeAplpha` repository. Pages is configured from its `main` branch and repository root. The calculator URL is `https://akshay627-crypto.github.io/Frontend_Development_CodeAplpha/CodeAlpha_Calculator/`; verify it after the Pages build finishes.
 
 ## Screenshots
 

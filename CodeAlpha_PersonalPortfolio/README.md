@@ -47,7 +47,7 @@ screenshots/                Screenshot capture directory
 
 ## GitHub Pages
 
-Create a public repository named `CodeAlpha_PersonalPortfolio`, push this folder to `main`, then enable Pages from **Settings → Pages → Deploy from a branch → main / root**. The entry point and assets are relative to the root. Verify the published URL in repository settings after deployment.
+This project is included in the public `Frontend_Development_CodeAplpha` repository. Pages is configured from its `main` branch and repository root. The portfolio URL is `https://akshay627-crypto.github.io/Frontend_Development_CodeAplpha/CodeAlpha_PersonalPortfolio/`; verify it after the Pages build finishes.
 
 ## Screenshots
 

@@ -36,7 +36,7 @@ screenshots/     Screenshot capture directory
 
 ## GitHub Pages
 
-Create a public repository named `CodeAlpha_ImageGallery`, push the contents of this folder to its `main` branch, then enable Pages from **Settings → Pages → Deploy from a branch → main / root**. Since the entry point is `index.html` at the root, no build output or asset-path changes are required. The resulting URL normally follows `https://<username>.github.io/CodeAlpha_ImageGallery/`; verify it in repository settings after publishing.
+This project is included in the public `Frontend_Development_CodeAplpha` repository. Pages is configured from its `main` branch and repository root. The gallery URL is `https://akshay627-crypto.github.io/Frontend_Development_CodeAplpha/CodeAlpha_ImageGallery/`; verify it after the Pages build finishes.
 
 ## Screenshots
 
