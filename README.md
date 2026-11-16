@@ -9,13 +9,13 @@ One repository containing the three CodeAlpha frontend projects plus a root laun
 
 - `CodeAlpha_ImageGallery/` — responsive photography gallery with category filters, keyboard-accessible lightbox, lazy loading, and image fallbacks.
 - `CodeAlpha_Calculator/` — responsive calculator with arithmetic, keyboard input, history, and division-by-zero handling.
-- `CodeAlpha_PersonalPortfolio/` — responsive portfolio template with mobile navigation, scroll reveals, resume template, a documented `mailto:` contact setup, and Akshay the Coder’s live portfolio featured as project three. Personal details are placeholders and must be replaced before publishing.
+- `CodeAlpha_PersonalPortfolio/` — Akshay Kumar’s responsive developer portfolio, copied into this repository with its artwork and interactive railway demo. The original portfolio is at [akshay627-crypto.github.io](https://akshay627-crypto.github.io/).
 
 
 ## Run locally
 
 
-Open the root `index.html` to browse all three projects. Each project also runs independently by opening its own `index.html`. For deployment-like path testing, serve this folder with any static file server; there is no build command or dependency installation.
+Open the root `index.html` to browse all three projects. Each project also runs independently by opening its own `index.html`. Serve this folder with any static file server for full browser behavior; there is no build command or dependency installation.
 
 
 ## Technology and accessibility
@@ -57,9 +57,6 @@ GitHub Pages is live from `main` / repository root at `https://akshay627-crypto.
 ## Submission checklist
 
 
-- [ ] Replace the personal portfolio placeholders and its example profile/project links.
-- [ ] Replace `CodeAlpha_PersonalPortfolio/assets/resume-template.txt` with a real resume and update the download link.
-- [ ] Set the contact email in `CodeAlpha_PersonalPortfolio/script.js`.
 - [ ] Capture desktop and mobile screenshots in each project's `screenshots/` folder.
 - [x] Create the single public repository, push `main`, and configure Pages from `main` / root.
 - [x] Confirm the Pages build and verify the published URLs.
